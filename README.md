@@ -46,7 +46,7 @@
 ###   7.	Open the file from the USB storage and select the Print option.
 
 ## Output:
-![image](https://github.com/Shruthidn27/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/138849783/346420a7-6365-45f7-8634-89da6aa33135)
+![image](https://github.com/Shruthidn27/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/138849783/829708c8-ded2-4204-bceb-ec3c2aea9ac3)
 
 ### Name: SHRUTHI D.N
 ### Register Number: 212223240155
